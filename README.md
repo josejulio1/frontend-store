@@ -20,8 +20,8 @@ Una tienda estática llena de camisetas exclusivas para los desarrolladores fron
 - BEM - Block Element Modifier, una metodología de organizar clases CSS en el HTML
 
 ## 🔁 Conocimientos reforzados
-- Estructura semántica con HTML5.
-- Maquetación responsiva con Flexbox y Grid.
+- Estructura semántica con HTML5
+- Maquetación responsiva con Flexbox y Grid
 
 ---
 
