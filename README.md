@@ -1,4 +1,4 @@
-# 🌐 Frontend Store, una tienda para entusiastas del frontend
+# 🌐 Frontend Store con HTML y CSS
 
 > 💡 **Proyecto basado en un [curso de Udemy](https://www.udemy.com/course/desarrollo-web-completo-con-html5-css3-js-php-y-mysql)**  
 > ✍️ Todo el código fue realizado por mí, incluyendo mejoras y personalizaciones
@@ -11,8 +11,8 @@ Una tienda estática llena de camisetas exclusivas para los desarrolladores fron
 
 ## 🛠️ Tecnologías utilizadas
 
-- **HTML5** – estructura semántica
-- **CSS3** – layout con Flexbox y Grid, responsive design
+- **HTML5** - estructura semántica
+- **CSS3** - layout con Flexbox y Grid, responsive design
 
 ---
 
